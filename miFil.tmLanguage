@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>fil</string>
+	</array>
+	<key>name</key>
+	<string>miFil sidebar</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>match</key>
+			<string>^\s*?/.+?$</string>
+			<key>name</key>
+			<string>carpeta</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>^.+?\.js$</string>
+			<key>name</key>
+			<string>js</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>^.+?\.php$</string>
+			<key>name</key>
+			<string>php</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>^.+?\.css$</string>
+			<key>name</key>
+			<string>css</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>^.+?\.html?$</string>
+			<key>name</key>
+			<string>html</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>^colapsadas=.*$</string>
+			<key>name</key>
+			<string>colapsadas</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>^.+?$</string>
+			<key>name</key>
+			<string>otros</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>mifil</string>
+	<key>uuid</key>
+	<string>11b69636-2e6b-47d6-9dd1-7527ac689d61</string>
+</dict>
+</plist>

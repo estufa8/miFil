@@ -1,0 +1,17 @@
+[{
+    "button": "button1",
+    "count": 2,
+    "press_command": "dblclick_en_archivo",
+    "press_args": {
+        "command": "drag_select",
+        "by": "words"
+    }
+}, {
+    "button": "button1",
+    "count": 3,
+    "press_command": "dblclick_en_archivo",
+    "press_args": {
+        "command": "drag_select",
+        "by": "lines"
+    }
+}]

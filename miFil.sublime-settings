@@ -1,0 +1,17 @@
+{
+	"extensions":
+	[
+		"fil"
+	],"font_size": 9,
+    "auto_indent":false,
+    "line_numbers":false,
+    "word_wrap" :false,
+    "highlight_line": false,
+    "spell_check": false,
+    "detect_indentation": false,
+    "line_padding_bottom": -1,
+    "context_menu": "Packages/miFil/Context.sublime-menu",
+    "highlight_line":false,
+    "scroll_past_end": false
+
+}

@@ -1,0 +1,30 @@
+{
+    "patterns": [{
+        "name": "carpeta",
+        "match": "^\\s*?/.+?$"
+    }, {
+        "name": "js",
+        "match": "^.+?\\.js$"
+    }, {
+        "name": "php",
+        "match": "^.+?\\.php$"
+    }, {
+        "name": "css",
+        "match": "^.+?\\.css$"
+    }, {
+        "name": "html",
+        "match": "^.+?\\.html?$"
+    }, {
+        "name": "colapsadas",
+        "match": "^colapsadas=.*$"
+    }, {
+        "name": "otros",
+        "match": "^.+?$"
+    }],
+    "uuid": "11b69636-2e6b-47d6-9dd1-7527ac689d61",
+    "fileTypes": [
+        "fil"
+    ],
+    "name": "miFil sidebar",
+    "scopeName": "mifil"
+}
